@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761337624093",
+    "firebase_url": "https://medeasy-bbffd.firebaseio.com",
+    "project_id": "medeasy-bbffd",
+    "storage_bucket": "medeasy-bbffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761337624093:android:4bf4534a72ffd2aa57f8f4",
+        "android_client_info": {
+          "package_name": "com.az.medeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761337624093-9c7gqg2pmf28g0h71lcsomncu5r5kaq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.az.medeasy",
+            "certificate_hash": "23bd3400ebbc361be41b5d3bcdadbcba7b345e94"
+          }
+        },
+        {
+          "client_id": "761337624093-81p7gt6igtfddjf0smc3uj2kppkggnfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASLoQhEgUzRswrYEFdDDifTHxXlpJThfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761337624093-81p7gt6igtfddjf0smc3uj2kppkggnfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
